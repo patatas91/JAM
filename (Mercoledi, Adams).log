@@ -1,0 +1,32 @@
+Log file per (Mercoledi, Adams)
+----> 180381346425 <----
+0- Inizializzazione comportamento.
+<<---------
+----> 180381346652 <----
+1- Start del comportamento, attesa messaggio iniziale.
+<<---------
+----> 180381347763 <----
+2- Preparo REQUEST dell'ora.
+<<---------
+----> 180381348391 <----
+3- Invio REQUEST.
+What time is it?
+<<---------
+----> 180381500287 <----
+4- Invita REQUEST.
+What time is it?
+<<---------
+----> 180381500719 <----
+5- Attendo risposta.
+<<---------
+----> 180382647169 <----
+6- Trovata risposta.
+REQUEST non compresa
+<<---------
+----> 180382647669 <----
+7- La risposta non e' una agree eseguo una done.
+REQUEST non compresa
+<<---------
+----> 180382647920 <----
+END- Esecuguita dispose.
+<<---------

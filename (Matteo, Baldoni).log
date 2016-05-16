@@ -1,0 +1,53 @@
+Log file per (Matteo, Baldoni)
+----> 180381006548 <----
+0- Inizializzazione comportamento.
+<<---------
+----> 180381007110 <----
+1- Start del comportamento, attesa messaggio iniziale.
+<<---------
+----> 180381007474 <----
+2- Preparo REQUEST dell'ora.
+<<---------
+----> 180381009418 <----
+3- Invio REQUEST.
+Che ora e'?
+<<---------
+----> 180381336503 <----
+4- Invita REQUEST.
+Che ora e'?
+<<---------
+----> 180381336812 <----
+5- Attendo risposta.
+<<---------
+----> 180381485147 <----
+6- Trovata risposta.
+REQUEST accettata
+<<---------
+----> 180381485484 <----
+8- La risposta e' una agree, prepara la conferma.
+REQUEST accettata
+<<---------
+----> 180381485773 <----
+9- Invio la conferma.
+Aspetto l'ora.
+<<---------
+----> 180381528053 <----
+10- Inviata la conferma.
+Aspetto l'ora.
+<<---------
+----> 180381528496 <----
+11- Attendo il messaggio con l'ora da (Berlino, Time Provider)
+<<---------
+----> 180383521445 <----
+12- Controllo se arrivato il messaggio con l'ora da (Berlino, Time Provider)
+<<---------
+----> 180383522252 <----
+13- Leggo il messaggio con l'ora da (Berlino, Time Provider)
+<<---------
+----> 180383522520 <----
+14- Letto il messaggio con l'ora da (Berlino, Time Provider)
+Ora: 16
+<<---------
+----> 180383523412 <----
+END- Esecuguita dispose.
+<<---------

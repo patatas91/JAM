@@ -1,0 +1,82 @@
+Log file per (Berlino, Time Provider)
+----> 180366973950 <----
+0- Inizializzazione comportamento.
+<<---------
+----> 180366974488 <----
+1- Start del comportamento, attesa messaggio iniziale.
+<<---------
+----> 180381331257 <----
+2- Ricevuto messaggio iniziale, inizio sua analisi
+<<---------
+----> 180381331766 <----
+9- REQUEST accettabile, preparo AGREE.
+Che ora e'?
+<<---------
+----> 180381333038 <----
+10- Invio AGREE.
+REQUEST accettata
+<<---------
+----> 180381484079 <----
+11- Inviata AGREE.
+REQUEST accettata
+<<---------
+----> 180381484546 <----
+12- Mi metto in attesa conferma da (Matteo, Baldoni).
+<<---------
+----> 180382480587 <----
+13- Mi risveglio e verifico se arrivata conferfa da (Matteo, Baldoni).
+<<---------
+----> 180382481995 <----
+15- Arrivata conferma da (Matteo, Baldoni).
+Aspetto l'ora.
+<<---------
+----> 180382482253 <----
+16- Preparo messaggio con ora per (Matteo, Baldoni).
+<<---------
+----> 180382482487 <----
+17- Invio ora a (Matteo, Baldoni).
+Ora: 16
+<<---------
+----> 180382528439 <----
+19- Inviata ora a (Matteo, Baldoni).
+Ora: 16
+<<---------
+----> 180382528793 <----
+1- Start del comportamento, attesa messaggio iniziale.
+<<---------
+----> 180382529033 <----
+2- Ricevuto messaggio iniziale, inizio sua analisi
+<<---------
+----> 180382529160 <----
+3- Performativa diversa da REQUEST, preparo REFUSE.
+Che ora e'?
+<<---------
+----> 180382529317 <----
+4- Invio REFUSE
+Performativa non accettata
+<<---------
+----> 180382596381 <----
+5- Inviata REFUSE
+Performativa non accettata
+<<---------
+----> 180382596729 <----
+1- Start del comportamento, attesa messaggio iniziale.
+<<---------
+----> 180382596909 <----
+2- Ricevuto messaggio iniziale, inizio sua analisi
+<<---------
+----> 180382597037 <----
+6- Non capisco il content, preparo NOT_UDERSTOOD.
+What time is it?
+<<---------
+----> 180382597242 <----
+7- Invio NOT_UNDERSTOOD.
+REQUEST non compresa
+<<---------
+----> 180382648130 <----
+8- Invita NOT_UNDERSTOOD.
+REQUEST non compresa
+<<---------
+----> 180382648513 <----
+1- Start del comportamento, attesa messaggio iniziale.
+<<---------

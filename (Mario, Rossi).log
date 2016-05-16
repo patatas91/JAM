@@ -1,0 +1,32 @@
+Log file per (Mario, Rossi)
+----> 180381341850 <----
+0- Inizializzazione comportamento.
+<<---------
+----> 180381342170 <----
+1- Start del comportamento, attesa messaggio iniziale.
+<<---------
+----> 180381342428 <----
+2- Preparo REQUEST dell'ora.
+<<---------
+----> 180381342685 <----
+3- Invio REQUEST.
+Che ora e'?
+<<---------
+----> 180381431561 <----
+4- Invita REQUEST.
+Che ora e'?
+<<---------
+----> 180381432335 <----
+5- Attendo risposta.
+<<---------
+----> 180382621214 <----
+6- Trovata risposta.
+Performativa non accettata
+<<---------
+----> 180382621686 <----
+7- La risposta non e' una agree eseguo una done.
+Performativa non accettata
+<<---------
+----> 180382622245 <----
+END- Esecuguita dispose.
+<<---------

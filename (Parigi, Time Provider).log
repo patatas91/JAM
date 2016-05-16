@@ -1,0 +1,70 @@
+Log file per (Parigi, Time Provider)
+----> 180366989031 <----
+0- Inizializzazione comportamento.
+<<---------
+----> 180366989261 <----
+1- Start del comportamento, attesa messaggio iniziale.
+<<---------
+----> 180381335754 <----
+2- Ricevuto messaggio iniziale, inizio sua analisi
+<<---------
+----> 180381336328 <----
+9- REQUEST accettabile, preparo AGREE.
+Che ora e'?
+<<---------
+----> 180381336568 <----
+10- Invio AGREE.
+REQUEST accettata
+<<---------
+----> 180381507798 <----
+11- Inviata AGREE.
+REQUEST accettata
+<<---------
+----> 180381508311 <----
+12- Mi metto in attesa conferma da (Matteo, Baldoni).
+<<---------
+----> 180382508726 <----
+13- Mi risveglio e verifico se arrivata conferfa da (Matteo, Baldoni).
+<<---------
+----> 180382509616 <----
+14- Nessuna conferma da (Matteo, Baldoni).
+<<---------
+----> 180382509822 <----
+1- Start del comportamento, attesa messaggio iniziale.
+<<---------
+----> 180382510061 <----
+2- Ricevuto messaggio iniziale, inizio sua analisi
+<<---------
+----> 180382510270 <----
+3- Performativa diversa da REQUEST, preparo REFUSE.
+Che ora e'?
+<<---------
+----> 180382510686 <----
+4- Invio REFUSE
+Performativa non accettata
+<<---------
+----> 180382571654 <----
+5- Inviata REFUSE
+Performativa non accettata
+<<---------
+----> 180382571985 <----
+1- Start del comportamento, attesa messaggio iniziale.
+<<---------
+----> 180382572176 <----
+2- Ricevuto messaggio iniziale, inizio sua analisi
+<<---------
+----> 180382572338 <----
+6- Non capisco il content, preparo NOT_UDERSTOOD.
+What time is it?
+<<---------
+----> 180382572526 <----
+7- Invio NOT_UNDERSTOOD.
+REQUEST non compresa
+<<---------
+----> 180382643993 <----
+8- Invita NOT_UNDERSTOOD.
+REQUEST non compresa
+<<---------
+----> 180382644294 <----
+1- Start del comportamento, attesa messaggio iniziale.
+<<---------
